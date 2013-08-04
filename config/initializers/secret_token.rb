@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Informit::Application.config.secret_key_base = '8195805675e45cd230a5d112d06228761c405b11160cd4c9cdc24a0330450fe093bdc8fbd51136238be53c37adb4bc6847aebe64eb0778fd3071cfdef10a42e8'
+Informit::Application.config.secret_key_base = '4ef9da038b5e735e9596e689498b16787e63be1e5c61662a3b00b1a42963351c42fb267041de0390d10119bcb9b28a56b057dcc4999b69741930f1e6cef45f5d'
